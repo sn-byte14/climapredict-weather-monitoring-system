@@ -22,3 +22,9 @@ This *IoT-based Weather Monitoring System* collects real-time climate data using
 2. *Data Storage*: Up to 34 days of data is stored for pattern analysis.  
 3. *Machine Learning Analysis*: The system predicts upcoming weather conditions using historical trends.  
 4. *Alerts & Monitoring*: Detects extreme weather conditions and provides local alerts.
+
+# 🧠 Machine Learning Features  
+- Uses *34 days of past weather data* for forecasting  
+- Predicts *temperature & humidity* using *Linear Regression*  
+- Predicts *rain likelihood* using *Random Forest Classifier*  
+- Provides *visual insights* with a temperature prediction graph
